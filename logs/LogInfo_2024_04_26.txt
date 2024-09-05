@@ -1,0 +1,3 @@
+00:12:11 Iniciando Socket
+00:12:32 Iniciando Socket
+14:21:23 Iniciando Socket Port: 9999

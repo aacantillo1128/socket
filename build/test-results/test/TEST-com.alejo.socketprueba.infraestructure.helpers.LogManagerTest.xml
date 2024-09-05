@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.alejo.socketprueba.infraestructure.helpers.LogManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-28T04:31:16" hostname="PB0B0947136" time="0.051">
+  <properties/>
+  <testcase name="getInstance()" classname="com.alejo.socketprueba.infraestructure.helpers.LogManagerTest" time="0.018"/>
+  <testcase name="logInfo()" classname="com.alejo.socketprueba.infraestructure.helpers.LogManagerTest" time="0.022"/>
+  <testcase name="logError()" classname="com.alejo.socketprueba.infraestructure.helpers.LogManagerTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
